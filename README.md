@@ -1,3 +1,3 @@
 # Mobile-Programming
 ## Master branch assignments done in IntelliJ
-## Android-studio brand assignments done in Android Studio
+## Android-studio branch assignments done in Android Studio
